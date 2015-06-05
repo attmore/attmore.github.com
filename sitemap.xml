@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhuren.hu/categories/index.html</loc>
+    <lastmod>2015-06-05T16:24:05.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zhuren.hu/tags/index.html</loc>
+    <lastmod>2015-06-05T16:22:58.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://zhuren.hu/2015/06/03/hello-world/</loc>
     <lastmod>2015-06-03T12:58:47.000Z</lastmod>
   </url>
